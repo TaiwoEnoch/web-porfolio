@@ -58,7 +58,7 @@ const Testimonial = () => {
       <motion.h1 variants={textVariant()} className={style.title}>
         Testimonials
       </motion.h1>
-      <motion.p variants={fadeIn('', '', 0.15, 1)} className={style.subtitle}>What my coding partners say about me -</motion.p>
+      <motion.p variants={fadeIn('', '', 0.15, 1)} className={style.subtitle}>Recommendations from my coding partners-</motion.p>
       <div className={style.carousel_container}>
         {/* Testimonials card */}
         <motion.div variants={fadeIn('', '', 0.5, 1)} className={style.card_container}>

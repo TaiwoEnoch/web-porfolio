@@ -1,5 +1,5 @@
 import {
-  facebook, linkedin, instagram, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, spacetravelers1, spacetravelers2, spacetravelers3, tvshow2, tvshow3, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, responsive, react, fullstack,
+  facebook, linkedin, instagram, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, spacetravelers1, spacetravelers2, spacetravelers3, tvshow2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, responsive, react, fullstack,
 } from '../assets';
 
 const social = [
@@ -155,7 +155,7 @@ const projects = [
     desc: 'TVshows Box is a web application showing multiple TV shows with the help of TVmaze API which contains both mobile and desktop versions. The webapp have 2 interfaces: - A home page, and a popup modal for comments.',
     tech: ['HTML5', 'CSS3', 'JavaScript', 'TVmaze API'],
     img: tvshow2,
-    carousel: [tvshow2, tvshow3],
+    carousel: [tvshow2],
     source_link: 'https://github.com/Tshobohwa/salomon-enoch-capstone.git',
     live_link: 'https://tshobohwa.github.io/salomon-enoch-capstone/dist',
   },
@@ -271,7 +271,7 @@ const services = [
     id: 1,
     icon: responsive,
     title: 'Responsive Design',
-    text: 'I specialize in creating websites that are not just visually stunning but also highly adaptable. My responsive designs ensure that your site looks and works perfectly on any device, providing an exceptional user experience regardless of screen size.',
+    text: 'I specialize in creating websites that are not just visually stunning but also highly adaptable. My ability for responsive designs ensure that your site looks great and works perfectly on all devices, providing an exceptional user experience regardless of the screen size.',
   },
   {
     id: 2,
