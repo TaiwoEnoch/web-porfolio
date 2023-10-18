@@ -55,7 +55,7 @@ Step into my interactive portfolio, where the harmony of ReactJS, ThreeJS, and T
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://singular-malasada-09d558.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
