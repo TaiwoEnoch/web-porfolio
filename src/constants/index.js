@@ -1,5 +1,5 @@
 import {
-  facebook, linkedin, instagram, twitter, github, facebook1, linkedin1, instagram1, twitter1, github1, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, spacetravelers1, spacetravelers2, spacetravelers3, tvshow2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, responsive, react, fullstack,
+  facebook, linkedin, instagram, github, facebook1, linkedin1, instagram1, github1, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, spacetravelers1, spacetravelers2, spacetravelers3, tvshow2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, responsive, react, fullstack,
 } from '../assets';
 
 const social = [
