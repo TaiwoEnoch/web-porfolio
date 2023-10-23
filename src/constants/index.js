@@ -25,13 +25,6 @@ const social = [
     icon1: instagram1,
   },
   {
-    id: 4,
-    name: 'Twitter',
-    url: 'https://twitter.com/taiwoenoch4',
-    icon: twitter,
-    icon1: twitter1,
-  },
-  {
     id: 5,
     name: 'Github',
     url: 'https://github.com/TaiwoEnoch',
