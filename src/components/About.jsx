@@ -23,7 +23,7 @@ const About = () => (
           Taiwo Enoch
         </a>
         {' '}
-        a highly skilled web developer specializing in JavaScript, React, Ruby, and Ruby on Rails. With an accelerated learning curve, I&apos;ve gained 2 years&apos; worth of experience in just 1 year, enabling me to excel in crafting robust web applications.
+        a highly skilled Software Developer specializing in JavaScript, React, Ruby, and Ruby on Rails. With an accelerated learning curve, I&apos;ve gained 2 years&apos; worth of experience in just 1 year, enabling me to excel in crafting robust web applications.
 
         My strength lies in thriving within collaborative environments, where I leverage my exceptional communication skills to consistently deliver outstanding results.
       </motion.p>
